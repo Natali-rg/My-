@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Привет 
+=======
+пїЅпїЅпїЅпїЅпїЅпїЅ jgfjgfjgfj Privet
+>>>>>>> 615d3826d3f7a8782a872aa6eebb38bfe8f9e9db
+
+Hello
